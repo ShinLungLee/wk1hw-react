@@ -1,5 +1,5 @@
 {
-  "name": "hw1-react",
+  "name": "hw1hw-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -21,7 +21,7 @@
     "vite": "^4.1.0"
   },
   "main": "index.js",
-  "repository": "https://github.com/dennis1113chen/hw1-react.git",
-  "author": "dennis1113chen <dennis1113.chen@gmail.com>",
+  "repository": "https://github.com/ShinLungLee/wk1hw-react",
+  "author": "winso <winsonli100@gmail.com>",
   "license": "MIT"
 }
